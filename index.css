@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Triforce';
+    src: url("/Triforce.ttf")
+
+}
+
+h1 {
+    font-family: 'Triforce';
+    letter-spacing: 5px;
+}
